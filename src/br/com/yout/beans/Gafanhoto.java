@@ -32,7 +32,7 @@ public class Gafanhoto extends Pessoa{
 	@Override
 	public String toString() {
 
-		return "Gafanhoto{" + super.toString() + "\n loing=" + login + ", totAssistido=" + totAssistido + " }";
+		return "Gafanhoto{" + super.toString() + "  login=" + login + ", totAssistido=" + totAssistido + " }";
 	}
 	
 }

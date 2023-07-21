@@ -19,9 +19,15 @@ public class Teste {
 		g[1] = new Gafanhoto("Creuza", 40, "F", "Creuzita");
 		
 		//Transformar v[0] em string
+		System.out.println("Vídeos\n-----------------------");
 		System.out.println(v[0].toString());
+		System.out.println(v[1].toString());
+		System.out.println(v[2].toString());
+		
+		System.out.println("\nGafanhotos\n-----------------------");
 		System.out.println(g[0].toString());
-
+		System.out.println(g[1].toString());
+		
 	}
 
 }
